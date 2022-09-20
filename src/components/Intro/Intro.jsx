@@ -39,9 +39,13 @@ const Intro = () => {
         </Link>
         {/* social icons */}
         <div className="i-icons">
-          <img src={Github} alt="" />
-          <img src={LinkedIn} alt="" />
-          <img src={Instagram} alt="" />
+          <a href="https://github.com/NayanDeshmukh2001" target="_blank"> <img src={Github} alt="" /></a>
+
+          <a href="https://www.linkedin.com/in/nayan-deshmukh-479614217"
+          target="_blank"> <img src={LinkedIn} alt="" /></a>
+
+          <a href="https://www.instagram.com/nayan_deshmukh2001" 
+          target="_blank"> <img src={Instagram} alt="" /></a>
         </div>
       </div>
       {/* right image side */}
@@ -75,7 +79,7 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={thumbup} text1="Best Design" text2="Award" />
+          <FloatinDiv img={thumbup} text1="Coding" text2="Learner" />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
