@@ -32,7 +32,7 @@ const Services = () => {
           hurry up!
         </spane>
         <a href={Resume} download>
-          <button className="button s-button">Download Menu</button>
+          <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
       </div>
