@@ -72,7 +72,7 @@ const Services = () => {
             emoji={Humble}
             heading={"Join"}
             detail={
-              "connect to me via linked handles"
+              "connect to me via linked handles to get best deal  "
             }
             color="rgba(252, 166, 31, 0.45)"
           />
