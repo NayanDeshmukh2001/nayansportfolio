@@ -7,7 +7,7 @@ const Card = ({emoji, heading, detail, color}) => {
       <img src={emoji} alt="" />
       <span>{heading}</span>
       <span>{detail}</span>
-      <button className="c-button">learn more</button>
+      <button className="c-button"><a href="www.nayansprogress.netlify.app">learn more</a></button>
     </div>
   );
 };
