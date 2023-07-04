@@ -27,7 +27,7 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          Providing your personal portfolio website at cheap rate
+          Providing your personal portfolio website at reasonable rate
           <br />
           hurry up!
         </spane>
