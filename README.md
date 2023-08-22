@@ -1,4 +1,4 @@
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e4345cb128dce3cb60b1fa?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e4345cb128dce3cb60b1fa?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
